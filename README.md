@@ -32,5 +32,3 @@ This project is an e-commerce website using React, React Router, and Tailwind CS
 2. Install dependencies: `npm install`
 3. Start the app: `npm start`
 
-Enjoy!
-
